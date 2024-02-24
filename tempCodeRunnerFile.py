@@ -1,2 +1,0 @@
-    # time.sleep(2) 
-        # browser.find_element(By.XPATH, "/html//div[@id='RENTAL_PICKUP_LOCATION']//div[@class='css-1dbjc4n r-eqz5dr']/div[5]/div[@class='css-1dbjc4n r-18u37iz']/div[@role='radiogroup']/div[@role='radio']").click()
